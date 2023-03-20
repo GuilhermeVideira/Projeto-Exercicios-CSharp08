@@ -1,6 +1,6 @@
-# Programas CSharp - Programação Orientada a Objetos ✉️
+# Programas CSharp - Programação Orientada a Objetos
 
-💻 Este seguinte projeto é uma atividade de programação de desenvolvimeto de sistemas, sobre Programação Orientada a Objetos.
+💻 Este seguinte projeto é uma atividade de programação de desenvolvimeto de sistemas, sobre Programação Orientada a Objetos. 💻
 
 ----------------------------------------------------------------------------
 ### Proposta da atividade:
